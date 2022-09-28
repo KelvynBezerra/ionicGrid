@@ -1,0 +1,7 @@
+{
+  "name": "projetoGrind",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
